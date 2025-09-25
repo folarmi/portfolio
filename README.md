@@ -348,16 +348,16 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 - **Portfolio**: [your-domain.com](https://your-domain.com)
-- **Email**: [your-email@domain.com](mailto:your-email@domain.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- **Dev.to**: [Your Dev.to Profile](https://dev.to/yourusername)
+- **Email**: [your-email@domain.com](mailto:folasayoakinyosoye@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/folasayo-akinyosoye/)
+- **Twitter**: [@yourtwitterhandle](https://twitter.com/folacodes)
+- **Dev.to**: [Your Dev.to Profile](https://dev.to/folacodes)
 
 ---
 
 ⭐ **Star this repository if you find it helpful!**
 
-_Built with ❤️ and lots of ☕ by [Your Name]_
+_Built with ❤️ and lots of ☕ by Folacodes_
 
 ---
 
