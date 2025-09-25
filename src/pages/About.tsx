@@ -1,5 +1,5 @@
 import aboutBg from "../assets/aboutBg.svg";
-import scroll from "../assets/Scroll.svg";
+import scroll from "../assets/scroll.svg";
 import skills from "../assets/skills.svg";
 
 const About = () => {
